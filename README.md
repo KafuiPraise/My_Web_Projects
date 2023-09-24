@@ -1,1 +1,1 @@
-# My Personal Web Projeacts
+# My Personal Web Projects
